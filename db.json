@@ -1,0 +1,47 @@
+{
+  "conventional_doors": [
+    {
+      "id": 1,
+      "name": "Porta Convencional 60cm"
+    },
+    {
+      "id": 2,
+      "name": "Porta Convencional 70cm"
+    },
+    {
+      "id": 3,
+      "name": "Porta Convencional 80cm"
+    }
+  ],
+
+  "delux_white_doors": [
+    {
+      "id": 1,
+      "name": "Porta SuperBranca 60cm"
+    },
+    {
+      "id": 2,
+      "name": "Porta SuperBranca 70cm"
+    },
+    {
+      "id": 3,
+      "name": "Porta SuperBranca 80cm"
+    }
+  ],
+
+  "delux_cinza_doors": [
+    {
+      "id": 1,
+      "name": "Porta Cinza 60cm"
+    },
+    {
+      "id": 2,
+      "name": "Porta Cinza 70cm"
+    },
+    {
+      "id": 3,
+      "name": "Porta Cinza 80cm"
+    }
+  ]
+
+}
