@@ -3,91 +3,107 @@
     {
       "id": 1,
       "name": "Porta Convencional 60cm",
-      "img": "https://i.pinimg.com/564x/11/6c/11/116c1188c44e0d6d5c197936e69e2e79.jpg"
+      "img": "http://www.schlindwein.com.br/wp-content/uploads/2017/11/SW-104-SUCUPIRA.jpg"
     },
     {
       "id": 2,
-      "name": "Porta Convencional 70cm"
+      "name": "Porta Convencional 70cm",
+      "img": "http://www.schlindwein.com.br/wp-content/uploads/2017/11/SW-103-CEREJEIRA.jpg"
     },
     {
       "id": 3,
-      "name": "Porta Convencional 80cm"
+      "name": "Porta Convencional 80cm",
+      "img": "https://www.schlindwein.com.br/wp-content/uploads/2017/12/SW-107-CURUPIXA-287x750.jpg"
     },
     {
       "id": 4,
-      "name": "Porta SuperBranca 60cm"
+      "name": "Porta SuperBranca 60cm",
+      "img": "https://www.rochaportapronta.com/wp-content/uploads/2022/08/02-superbranconew.png"
     },
     {
       "id": 5,
-      "name": "Porta SuperBranca 70cm"
+      "name": "Porta SuperBranca 70cm",
+      "img": "https://www.rochaportapronta.com/wp-content/uploads/2022/08/02-superbranconew.png"
     },
     {
       "id": 6,
-      "name": "Porta SuperBranca 80cm"
+      "name": "Porta SuperBranca 80cm",
+      "img": "https://www.rochaportapronta.com/wp-content/uploads/2022/08/02-superbranconew.png"
+
     },
     {
       "id": 7,
-      "name": "Porta Cinza 60cm"
+      "name": "Porta Cinza 60cm",
+      "img": "https://www.rochaportapronta.com/wp-content/uploads/2022/08/15-grafitto.png"
     },
     {
       "id": 8,
-      "name": "Porta Cinza 70cm"
+      "name": "Porta Cinza 70cm",
+      "img": "https://www.rochaportapronta.com/wp-content/uploads/2022/08/15-grafitto.png"
     },
     {
       "id": 9,
-      "name": "Porta Cinza 80cm"
+      "name": "Porta Cinza 80cm",
+      "img": "https://www.rochaportapronta.com/wp-content/uploads/2022/08/15-grafitto.png"
     }
   ],
   "faucets": [
     {
       "id": 1,
-      "name": "Misturador"
+      "name": "Misturador",
+      "img": "https://a-static.mlcdn.com.br/800x560/torneira-misturador-monocomando-preto-quadrado-alto-para-banheiro-m0102p-harmony/maxyang/59p/282f7f0860245addc73865c5bf9da61f.jpg"
     },
     {
       "id": 2,
-      "name": "Torneira para lavatório"
+      "name": "Torneira para lavatório",
+      "img": "https://m.media-amazon.com/images/I/41XkIlbltTL._AC_SX522_.jpg"
     },
     {
       "id": 3,
-      "name": "Torneira Bica Alta"
+      "name": "Torneira Bica Alta",
+      "img": "https://telhanorte.vteximg.com.br/arquivos/ids/309671-NaN-NaN/Torneira-para-lavatorio-Link-1198C-bica-alta-cromada-Deca.jpg?v=636645958329000000"
     },
     {
       "id": 4,
-      "name": "Torneira Bica Alta"
+      "name": "Torneira Bica Baixa",
+      "img": "https://cdn.b4c.inf.br/storage/sertao/1000/torneira-para-lavatorio-de-mesa-bica-baixa-celite16569740940.jpeg"
     },
     {
       "id": 5,
-      "name": "Torneira Bica Baixa"
-    },
-    {
-      "id": 6,
-      "name": "Torneira de Mesa"
+      "name": "Torneira de Mesa",
+      "img": "https://static3.tcdn.com.br/img/img_prod/39590/torneira_de_mesa_para_cozinha_bica_movel_1167_c59_fast_cromado_deca_3456_1_20210407102050.jpg"
     }
   ],
   "door_locks": [
     {
       "id": 1,
-      "name": "Fechadura Imab Banheiro"
+      "name": "Fechadura Imab Banheiro",
+      "img": "https://cdn.leroymerlin.com.br/products/fechadura_banheiro_40mm_zamac_cromado_duna_imab_88403126_0001_600x600.jpg"
     },
     {
       "id": 2,
-      "name": "Fechadura Imab Interna"
+      "name": "Fechadura Imab Interna",
+      "img": "https://www.portalfechaduras.com.br/wp-content/uploads/2018/05/Portal-Fechaduras-e-Puxadores-Fechadura-Imab-Icaro-Cromo-Acetinado-55mm-interna.jpg"
     },
     {
       "id": 3,
-      "name": "Fechadura Imab Externa"
+      "name": "Fechadura Imab Externa",
+      "img": "https://www.portalfechaduras.com.br/wp-content/uploads/2018/05/Portal-fechaduras-puxadores-aramandos-dobradi%C3%A7as-em-Araraquara-Produto-conjuntos-com-ma%C3%A7anetas-icaro-67.jpg"
     },
     {
       "id": 4,
-      "name": "Fechadura Pado Banheiro"
+      "name": "Fechadura Pado Banheiro",
+      "img": "https://padovani.vteximg.com.br/arquivos/ids/173899-1000-1000/Fechadura-Banheiro-Concept-Cromado-401B-CR---Pado.jpg?v=636904897741600000"
     },
     {
       "id": 5,
-      "name": "Fechadura Pado Interna"
+      "name": "Fechadura Pado Interna",
+      "img": "https://padovani.vteximg.com.br/arquivos/ids/173946/Fechadura-Interna-Classic-Cromado-691-80I-CR---Pado.jpg?v=636904916935600000"
     },
     {
       "id": 6,
-      "name": "Fechadura Pado Externa"
+      "name": "Fechadura Pado Externa",
+      "img": "https://padovani.vteximg.com.br/arquivos/ids/173825-1000-1000/Fechadura-Externa-Concept-Cromado-408E-CR---Pado.jpg?v=636904360633730000"
     }
   ]
 
