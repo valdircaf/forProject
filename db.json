@@ -36,6 +36,58 @@
       "id": 9,
       "name": "Porta Cinza 80cm"
     }
-
+  ],
+  "faucets": [
+    {
+      "id": 1,
+      "name": "Misturador"
+    },
+    {
+      "id": 2,
+      "name": "Torneira para lavatório"
+    },
+    {
+      "id": 3,
+      "name": "Torneira Bica Alta"
+    },
+    {
+      "id": 4,
+      "name": "Torneira Bica Alta"
+    },
+    {
+      "id": 5,
+      "name": "Torneira Bica Baixa"
+    },
+    {
+      "id": 6,
+      "name": "Torneira de Mesa"
+    }
+  ],
+  "door_locks": [
+    {
+      "id": 1,
+      "name": "Fechadura Imab Banheiro"
+    },
+    {
+      "id": 2,
+      "name": "Fechadura Imab Interna"
+    },
+    {
+      "id": 3,
+      "name": "Fechadura Imab Externa"
+    },
+    {
+      "id": 4,
+      "name": "Fechadura Pado Banheiro"
+    },
+    {
+      "id": 5,
+      "name": "Fechadura Pado Interna"
+    },
+    {
+      "id": 6,
+      "name": "Fechadura Pado Externa"
+    }
   ]
+
 }
